@@ -1,0 +1,77 @@
+// Script para insertar documentos en la colección tarea
+
+// Inserta los documentos en la colección tarea
+
+
+[
+    {
+        "asunto_tarea": "Evacuación de víctimas en zona inundada",
+        "estado_tarea": true,
+        "id_emergencia": 1
+    },
+    {
+        "asunto_tarea": "Búsqueda y rescate de personas atrapadas en edificio colapsado",
+        "estado_tarea": false,
+        "id_emergencia": 2
+    },
+    {
+        "asunto_tarea": "Asistencia médica de emergencia en accidente automovilístico",
+        "estado_tarea": true,
+        "id_emergencia": 3
+    },
+    {
+        "asunto_tarea": "Rescate de animales atrapados en incendio forestal",
+        "estado_tarea": false,
+        "id_emergencia": 4
+    },
+    {
+        "asunto_tarea": "Evacuación de personas en riesgo por deslizamiento de tierra",
+        "estado_tarea": true,
+        "id_emergencia": 5
+    },
+    {
+        "asunto_tarea": "Salvamento acuático en naufragio",
+        "estado_tarea": false,
+        "id_emergencia": 6
+    },
+    {
+        "asunto_tarea": "Rescate de senderistas perdidos en montaña",
+        "estado_tarea": true,
+        "id_emergencia": 7
+    },
+    {
+        "asunto_tarea": "Asistencia a víctimas de explosión en fábrica",
+        "estado_tarea": false,
+        "id_emergencia": 8
+    },
+    {
+        "asunto_tarea": "Evacuación de zona afectada por fuga química",
+        "estado_tarea": true,
+        "id_emergencia": 9
+    },
+    {
+        "asunto_tarea": "Rescate de personas atrapadas en ascensor",
+        "estado_tarea": false,
+        "id_emergencia": 10
+    }
+]
+
+
+
+
+
+// Script para insertar documentos en la colección 
+voluntario
+
+[
+    { nombre: "Juan", apellido: "Pérez", telefono: "555-1234", direccion: "Calle A, #123" },
+    { nombre: "María", apellido: "Gómez", telefono: "555-5678", direccion: "Avenida B, #456" },
+    { nombre: "Carlos", apellido: "Rodríguez", telefono: "555-9876", direccion: "Calle C, #789" },
+    { nombre: "Laura", apellido: "Martínez", telefono: "555-4321", direccion: "Avenida D, #012" },
+    { nombre: "Pedro", apellido: "Sánchez", telefono: "555-5432", direccion: "Calle E, #345" },
+    { nombre: "Ana", apellido: "Hernández", telefono: "555-8765", direccion: "Avenida F, #678" },
+    { nombre: "Javier", apellido: "López", telefono: "555-2345", direccion: "Calle G, #901" },
+    { nombre: "Carmen", apellido: "Díaz", telefono: "555-6789", direccion: "Avenida H, #234" },
+    { nombre: "Roberto", apellido: "Ramírez", telefono: "555-3456", direccion: "Calle I, #567" },
+    { nombre: "Isabel", apellido: "Fernández", telefono: "555-7890", direccion: "Avenida J, #890" }
+]
